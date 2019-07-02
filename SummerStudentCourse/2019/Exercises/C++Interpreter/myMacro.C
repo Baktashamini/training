@@ -4,7 +4,7 @@
 void myMacro ()
 {
 
-  std::cout << "Result is: " << .... << std::endl;
+  std::cout << "Result is: " << "42" << std::endl;
 }
 
 int main() {
